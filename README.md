@@ -1,4 +1,3 @@
-# weekly-en
-Healthcare Data Science Weekly Share - English version
+# Healthcare Data Science Weekly 
 
-## Share what I've collected in the past week, such as websites, articles, etc. 
+## Share what I've collected about healthcare data science in the past week, such as websites, articles, etc. 

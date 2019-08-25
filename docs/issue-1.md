@@ -1,4 +1,4 @@
-# Weekly #1
+# Heathcare Data Science Weekly #1
 
 ## Articles
 

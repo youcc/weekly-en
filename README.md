@@ -4,4 +4,11 @@
 
 
 ## 2019
-**August**：[Issue 2](docs/issue-2.md) | [Issue 1](docs/issue-1.md) 
+
+**September**：
+
+[Issue 3](docs/issue-3.md) 
+
+**August**：
+
+[Issue 2](docs/issue-2.md) | [Issue 1](docs/issue-1.md) 
